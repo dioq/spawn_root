@@ -1,6 +1,6 @@
 # spawn_root
 
-TrollStore 以 root 权限 执行 cli
+TrollStore 以 root 权限 执行 cli    </br>
 https://github.com/opa334/TrollStore/blob/main/Shared/TSUtil.m#L79
 
 ## Root Helpers
